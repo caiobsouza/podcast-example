@@ -1,0 +1,1913 @@
+{
+    "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "RO",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+    ],
+    "copyrights": [],
+    "description": "Podcast by Mensagens semanais da Mosaico",
+    "episodes": {
+        "href": "https://api.spotify.com/v1/shows/2RpKnppT6GQLUsGyeOkcY4/episodes?offset=0&limit=50",
+        "items": [
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/600e43d42d89224c1c445e6a323df159f89f0458",
+                "description": "21.04.19 - PÁSCOA by Mensagens semanais da Mosaico",
+                "duration_ms": 2293056,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/0japM0Puhntp17mCy4DYRB"
+                },
+                "href": "https://api.spotify.com/v1/episodes/0japM0Puhntp17mCy4DYRB",
+                "id": "0japM0Puhntp17mCy4DYRB",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "21.04.19 - PÁSCOA",
+                "release_date": "2019-04-22",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:0japM0Puhntp17mCy4DYRB"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/1b364c1b8ab43d9d659cfd8820b9d2a2527605a5",
+                "description": "14.04.19 - JONAS - A ORAÇÃO DE JONAS by Mensagens semanais da Mosaico",
+                "duration_ms": 3223896,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6DmjLBd1uAqBLIuGNOm6TC"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6DmjLBd1uAqBLIuGNOm6TC",
+                "id": "6DmjLBd1uAqBLIuGNOm6TC",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/fcec8d8abd7470c8b08d98fbbae2c268d0bdda4a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/b0a462c6ea07eb6eb4d4d8ac0d4da839f8c958a3",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/8ba1d88cbcc6f1327d91f6a88107e32e392a3b79",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "14.04.19 - JONAS - A ORAÇÃO DE JONAS",
+                "release_date": "2019-04-15",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6DmjLBd1uAqBLIuGNOm6TC"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/9ee101ac10786793c5e8254fd7d439a873bc5376",
+                "description": "07.04.19 - JONAS - JONAS E O PODER PARA SALVAR by Mensagens semanais da Mosaico",
+                "duration_ms": 2361096,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6PZwhUbA909JhvIllx5OsM"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6PZwhUbA909JhvIllx5OsM",
+                "id": "6PZwhUbA909JhvIllx5OsM",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/fcec8d8abd7470c8b08d98fbbae2c268d0bdda4a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/b0a462c6ea07eb6eb4d4d8ac0d4da839f8c958a3",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/8ba1d88cbcc6f1327d91f6a88107e32e392a3b79",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "07.04.19 - JONAS - JONAS E O PODER PARA SALVAR",
+                "release_date": "2019-04-08",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6PZwhUbA909JhvIllx5OsM"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/5e5716a33b0018a1e94d5af1c1d83e4a28420d04",
+                "description": "31.03.19 - JONAS - O CORAÇÃO E A IRA DE DEUS by Mensagens semanais da Mosaico",
+                "duration_ms": 3119496,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/3V2qr2D93zIplj7sD7hlTX"
+                },
+                "href": "https://api.spotify.com/v1/episodes/3V2qr2D93zIplj7sD7hlTX",
+                "id": "3V2qr2D93zIplj7sD7hlTX",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/fcec8d8abd7470c8b08d98fbbae2c268d0bdda4a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/b0a462c6ea07eb6eb4d4d8ac0d4da839f8c958a3",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/8ba1d88cbcc6f1327d91f6a88107e32e392a3b79",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "31.03.19 - JONAS - O CORAÇÃO E A IRA DE DEUS",
+                "release_date": "2019-04-01",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:3V2qr2D93zIplj7sD7hlTX"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/a94a2fc6e5cdc1b24892978f6e322a1eaf1b42d9",
+                "description": "24.03.19 - JONAS - QUEM FALA DE DEUS? by Mensagens semanais da Mosaico",
+                "duration_ms": 3101736,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6Z7q28requuHUyDqupRbtR"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6Z7q28requuHUyDqupRbtR",
+                "id": "6Z7q28requuHUyDqupRbtR",
+                "images": [
+                    {
+                        "height": 337,
+                        "url": "https://i.scdn.co/image/b82cabbd99d7459c53294291db387c2dfdaa9542",
+                        "width": 337
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/2380d0962f9fb3e3626cef54cd7c1db50b3496c0",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/bd0052cc7987ce19338113174448adf8a8b0fd75",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "24.03.19 - JONAS - QUEM FALA DE DEUS?",
+                "release_date": "2019-03-25",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6Z7q28requuHUyDqupRbtR"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/9b2532975417833a322cc21e926d18778151888b",
+                "description": "17.03.19 - JONAS - MAIOR QUE JONAS by Mensagens semanais da Mosaico",
+                "duration_ms": 3044976,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/22u3oigAqWfnYmRjrpmS1J"
+                },
+                "href": "https://api.spotify.com/v1/episodes/22u3oigAqWfnYmRjrpmS1J",
+                "id": "22u3oigAqWfnYmRjrpmS1J",
+                "images": [
+                    {
+                        "height": 337,
+                        "url": "https://i.scdn.co/image/9512006a9bd1299fb683058cf903d188a3777245",
+                        "width": 337
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/91310f96ce503d857b37337d7ec7e957df491128",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/6126d2a9e87a8438b705014106bf0568321cc788",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "17.03.19 - JONAS - MAIOR QUE JONAS",
+                "release_date": "2019-03-19",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:22u3oigAqWfnYmRjrpmS1J"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/34dbd635dcce0b5f61e563ece758119df761c087",
+                "description": "10.03.19 - JONAS - UMA VIDA DE FUGA by Mensagens semanais da Mosaico",
+                "duration_ms": 3269799,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6RDdj76swfaeIGnAelaeI9"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6RDdj76swfaeIGnAelaeI9",
+                "id": "6RDdj76swfaeIGnAelaeI9",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/4ed4c5bcf7ba21421fcd761f03c474a9261d7139",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/2ec7618cc13c8a6cc7111a97e40c16672ad2847b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/2c3d755f3bf6596218206ccb6f01b5bba19934a2",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "10.03.19 - JONAS - UMA VIDA DE FUGA",
+                "release_date": "2019-03-11",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6RDdj76swfaeIGnAelaeI9"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/9640ab2e7b36527b2807a1a426fa2acfcc1167f3",
+                "description": "24.02.19 - O QUE VOCÊ PRECISA SABER by Mensagens semanais da Mosaico",
+                "duration_ms": 3079863,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/59OFjAeTXLjC3BPdU2mKHg"
+                },
+                "href": "https://api.spotify.com/v1/episodes/59OFjAeTXLjC3BPdU2mKHg",
+                "id": "59OFjAeTXLjC3BPdU2mKHg",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "24.02.19 - O QUE VOCÊ PRECISA SABER",
+                "release_date": "2019-02-26",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:59OFjAeTXLjC3BPdU2mKHg"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/12a9dc78d41ae67718c66655522812a8f5075ffd",
+                "description": "17.02.19 - CRESCER by Mensagens semanais da Mosaico",
+                "duration_ms": 3601293,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/5V3y7oPdylTNpzLqQjhD1w"
+                },
+                "href": "https://api.spotify.com/v1/episodes/5V3y7oPdylTNpzLqQjhD1w",
+                "id": "5V3y7oPdylTNpzLqQjhD1w",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "17.02.19 - CRESCER",
+                "release_date": "2019-02-18",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:5V3y7oPdylTNpzLqQjhD1w"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/e851675bbb074792947c4091cdbd3dd473f5c3c7",
+                "description": "10.02.19 - A CERTEZA DE CONHECER A DEUS by Mensagens semanais da Mosaico",
+                "duration_ms": 3282730,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/0zDOe6wKd1yD8UZoBUq8fa"
+                },
+                "href": "https://api.spotify.com/v1/episodes/0zDOe6wKd1yD8UZoBUq8fa",
+                "id": "0zDOe6wKd1yD8UZoBUq8fa",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "10.02.19 - A CERTEZA DE CONHECER A DEUS",
+                "release_date": "2019-02-11",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:0zDOe6wKd1yD8UZoBUq8fa"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/9160eee065766230b1212c908228af7fb5cbf0a9",
+                "description": "03.02.19 - PERSEVERANÇA by Mensagens semanais da Mosaico",
+                "duration_ms": 3091853,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4OhHrwClas78LSg8dI6bNP"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4OhHrwClas78LSg8dI6bNP",
+                "id": "4OhHrwClas78LSg8dI6bNP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "03.02.19 - PERSEVERANÇA",
+                "release_date": "2019-02-04",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4OhHrwClas78LSg8dI6bNP"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/30fa22693f4c3f3c7fcc1a3a976e396cf88d5eb0",
+                "description": "26.01.19 - MOSAICO 3 ANOS - TOMAS SOUZA by Mensagens semanais da Mosaico",
+                "duration_ms": 3406498,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2ajzZ46Ir9qwwtQtTXK15b"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2ajzZ46Ir9qwwtQtTXK15b",
+                "id": "2ajzZ46Ir9qwwtQtTXK15b",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/22139c47f3335a7444c08dd259be26e7ccb362b5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ea3b690475683709619aca55a05b3c869b9c911e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/f2039e79fe9d81ea62326cdd6edb6293ccb99997",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "26.01.19 - MOSAICO 3 ANOS - TOMAS SOUZA",
+                "release_date": "2019-01-29",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2ajzZ46Ir9qwwtQtTXK15b"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/8ced8b10625862bed0d761ceab0cb5b54bf3112d",
+                "description": "26.01.19 - MOSAICO 3 ANOS - MAELYSON ROLIM by Mensagens semanais da Mosaico",
+                "duration_ms": 1938286,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/1Y5zv7onJu5qBti2Tt5Ahr"
+                },
+                "href": "https://api.spotify.com/v1/episodes/1Y5zv7onJu5qBti2Tt5Ahr",
+                "id": "1Y5zv7onJu5qBti2Tt5Ahr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/22139c47f3335a7444c08dd259be26e7ccb362b5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ea3b690475683709619aca55a05b3c869b9c911e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/f2039e79fe9d81ea62326cdd6edb6293ccb99997",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "26.01.19 - MOSAICO 3 ANOS - MAELYSON ROLIM",
+                "release_date": "2019-01-28",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:1Y5zv7onJu5qBti2Tt5Ahr"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/aaa026caff33d602594a4387ced316dd5ab4da4b",
+                "description": "27.01.19 - MOSAICO 3 ANOS - GUILHERME FRANCO by Mensagens semanais da Mosaico",
+                "duration_ms": 3797629,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4wy2OQhAkXMHQK5smYMPz3"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4wy2OQhAkXMHQK5smYMPz3",
+                "id": "4wy2OQhAkXMHQK5smYMPz3",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/22139c47f3335a7444c08dd259be26e7ccb362b5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ea3b690475683709619aca55a05b3c869b9c911e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/f2039e79fe9d81ea62326cdd6edb6293ccb99997",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "27.01.19 - MOSAICO 3 ANOS - GUILHERME FRANCO",
+                "release_date": "2019-01-28",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4wy2OQhAkXMHQK5smYMPz3"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/a48b274054793a81a4dbe571115f8c5293c69215",
+                "description": "20.01.19 - A FÉ DOS LIVRES by Mensagens semanais da Mosaico",
+                "duration_ms": 2676846,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4bkJPO7fjXIIYcpM8ZDJW8"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4bkJPO7fjXIIYcpM8ZDJW8",
+                "id": "4bkJPO7fjXIIYcpM8ZDJW8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "20.01.19 - A FÉ DOS LIVRES",
+                "release_date": "2019-01-22",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4bkJPO7fjXIIYcpM8ZDJW8"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/820e2ef51f927c6ff5c0739627dea8f49c818ac7",
+                "description": "13.01.19 - FILHOS AMADOS - JOEL BELO by Mensagens semanais da Mosaico",
+                "duration_ms": 3482227,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/0XiTQ9lFRH6mhsPal3oNH1"
+                },
+                "href": "https://api.spotify.com/v1/episodes/0XiTQ9lFRH6mhsPal3oNH1",
+                "id": "0XiTQ9lFRH6mhsPal3oNH1",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "13.01.19 - FILHOS AMADOS - JOEL BELO",
+                "release_date": "2019-01-15",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:0XiTQ9lFRH6mhsPal3oNH1"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/35eec893433a7f17829cfc8a8df1a5ddf26a6690",
+                "description": "08.01.19 - DEUS SEM NOME by Mensagens semanais da Mosaico",
+                "duration_ms": 2520216,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/3fuxNjpp8o6E3wcF2WCO4m"
+                },
+                "href": "https://api.spotify.com/v1/episodes/3fuxNjpp8o6E3wcF2WCO4m",
+                "id": "3fuxNjpp8o6E3wcF2WCO4m",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "08.01.19 - DEUS SEM NOME",
+                "release_date": "2019-01-08",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:3fuxNjpp8o6E3wcF2WCO4m"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/3b6a0853a34fb56c468a6d2569f38f4eda60e9df",
+                "description": "23.12.18 - CONSPIRAÇÃO DO NATAL - AME A TODOS by Mensagens semanais da Mosaico",
+                "duration_ms": 2436180,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/3H4znmzBluYYXmWzIZ7rTx"
+                },
+                "href": "https://api.spotify.com/v1/episodes/3H4znmzBluYYXmWzIZ7rTx",
+                "id": "3H4znmzBluYYXmWzIZ7rTx",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/c37a879b8151544900e5f2d608725414d662d0fa",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/64aa4d2c15ffb70fe21d523e489817206a169865",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/fea5b3bc27fb24e555b0181227ad324dcef6c5bf",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "23.12.18 - CONSPIRAÇÃO DO NATAL - AME A TODOS",
+                "release_date": "2018-12-26",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:3H4znmzBluYYXmWzIZ7rTx"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/a527bcf3329cce4ab8e0078e74330c0135f6afa8",
+                "description": "16.12.18 - CONSPIRAÇÃO DO NATAL - DOE MAIS by Mensagens semanais da Mosaico",
+                "duration_ms": 3157159,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/62fWjYTCCDaNfytjIjPhUY"
+                },
+                "href": "https://api.spotify.com/v1/episodes/62fWjYTCCDaNfytjIjPhUY",
+                "id": "62fWjYTCCDaNfytjIjPhUY",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/c37a879b8151544900e5f2d608725414d662d0fa",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/64aa4d2c15ffb70fe21d523e489817206a169865",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/fea5b3bc27fb24e555b0181227ad324dcef6c5bf",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "16.12.18 - CONSPIRAÇÃO DO NATAL - DOE MAIS",
+                "release_date": "2018-12-17",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:62fWjYTCCDaNfytjIjPhUY"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/21a8a0ca92bbd31bf8fb257910f29bdb1102b35a",
+                "description": "09.12.18 - CONSPIRAÇÃO DO NATAL - GASTE MENOS by Mensagens semanais da Mosaico",
+                "duration_ms": 3610279,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/02JhmVcJ6FnCYH8uQMeOp4"
+                },
+                "href": "https://api.spotify.com/v1/episodes/02JhmVcJ6FnCYH8uQMeOp4",
+                "id": "02JhmVcJ6FnCYH8uQMeOp4",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/c37a879b8151544900e5f2d608725414d662d0fa",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/64aa4d2c15ffb70fe21d523e489817206a169865",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/fea5b3bc27fb24e555b0181227ad324dcef6c5bf",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "09.12.18 - CONSPIRAÇÃO DO NATAL - GASTE MENOS",
+                "release_date": "2018-12-10",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:02JhmVcJ6FnCYH8uQMeOp4"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/eecdcbcb5c70c845e1ac677119e08fa218fe55fd",
+                "description": "04.12.18 - CONSPIRAÇÃO DO NATAL - ADORE INTENSAMENTE by Mensagens semanais da Mosaico",
+                "duration_ms": 3113300,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/01TzdaHi1HwOcLjCqhNyqY"
+                },
+                "href": "https://api.spotify.com/v1/episodes/01TzdaHi1HwOcLjCqhNyqY",
+                "id": "01TzdaHi1HwOcLjCqhNyqY",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/c37a879b8151544900e5f2d608725414d662d0fa",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/64aa4d2c15ffb70fe21d523e489817206a169865",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/fea5b3bc27fb24e555b0181227ad324dcef6c5bf",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "04.12.18 - CONSPIRAÇÃO DO NATAL - ADORE INTENSAMENTE",
+                "release_date": "2018-12-04",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:01TzdaHi1HwOcLjCqhNyqY"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/5eada44df4c37ee3a4e53531bd371e03e75b2ee9",
+                "description": "20.11.18 - PR. TONI - QUANDO CAMINHAMOS COM JESUS by Mensagens semanais da Mosaico",
+                "duration_ms": 3410651,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2TxvoGok1DkVlEgkNvtmwx"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2TxvoGok1DkVlEgkNvtmwx",
+                "id": "2TxvoGok1DkVlEgkNvtmwx",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "20.11.18 - PR. TONI - QUANDO CAMINHAMOS COM JESUS",
+                "release_date": "2018-11-26",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2TxvoGok1DkVlEgkNvtmwx"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/e054518f5327791eeecffeec94099850b8f31367",
+                "description": "18.11.18 - O CHAMADO DE PEDRO - PR. ALBERTO FREITAS by Mensagens semanais da Mosaico",
+                "duration_ms": 2557309,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2hwYLuwctzfKxEVYkvS4mR"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2hwYLuwctzfKxEVYkvS4mR",
+                "id": "2hwYLuwctzfKxEVYkvS4mR",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "18.11.18 - O CHAMADO DE PEDRO - PR. ALBERTO FREITAS",
+                "release_date": "2018-11-19",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2hwYLuwctzfKxEVYkvS4mR"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/b8e6ed19ff845d7ef01ca9858e61a9f714b84714",
+                "description": "11.11.18 - ESPERANÇA NO MEIO - PEDRAS, RAÍZES E FRUTOS by Mensagens semanais da Mosaico",
+                "duration_ms": 3616575,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2vsLMGNqslvz0itOIvzxug"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2vsLMGNqslvz0itOIvzxug",
+                "id": "2vsLMGNqslvz0itOIvzxug",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/3739e71c5b5bd9efa3c4e6e2ed7621278d66f16c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/d4db419c1a50a55fd725dac430114ea0ba8a01d6",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/eb98b8785e275c9d50890419c37970de28be58fa",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "11.11.18 - ESPERANÇA NO MEIO - PEDRAS, RAÍZES E FRUTOS",
+                "release_date": "2018-11-12",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2vsLMGNqslvz0itOIvzxug"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/8786deadf2d3dcc06131d638433964d13f777153",
+                "description": "04.11.18 - ESPERANÇA NO MEIO - SEMENTE PERECÍVEL by Mensagens semanais da Mosaico",
+                "duration_ms": 3024483,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4wUYNTf0Qjml40NsszJC3r"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4wUYNTf0Qjml40NsszJC3r",
+                "id": "4wUYNTf0Qjml40NsszJC3r",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/3739e71c5b5bd9efa3c4e6e2ed7621278d66f16c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/d4db419c1a50a55fd725dac430114ea0ba8a01d6",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/eb98b8785e275c9d50890419c37970de28be58fa",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "04.11.18 - ESPERANÇA NO MEIO - SEMENTE PERECÍVEL",
+                "release_date": "2018-11-05",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4wUYNTf0Qjml40NsszJC3r"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/71f9e75fbdf9498005528ecf5aff88c500a25fcf",
+                "description": "28.10.18 - ESPERANÇA NO MEIO - TERRA ARRASADA by Mensagens semanais da Mosaico",
+                "duration_ms": 3010508,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/1WSdEAg13eJKVcnr2tBizm"
+                },
+                "href": "https://api.spotify.com/v1/episodes/1WSdEAg13eJKVcnr2tBizm",
+                "id": "1WSdEAg13eJKVcnr2tBizm",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/f9f14292c53e0ef98e3cfcfa86ad9e901856d158",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/456d49b20fbcce185dc6c781f730f4851d8bab17",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/3f148fa9df76ead41684a5e6df89103674c7bd1d",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "28.10.18 - ESPERANÇA NO MEIO - TERRA ARRASADA",
+                "release_date": "2018-10-30",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:1WSdEAg13eJKVcnr2tBizm"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/0997ce5b65751b58d000d0f13348189e334303f8",
+                "description": "21.10.18 - ESPERANÇA NO MEIO - FORJADOS NO FOGO by Mensagens semanais da Mosaico",
+                "duration_ms": 2330802,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6nw9SAOGln0XyVTO7xgsht"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6nw9SAOGln0XyVTO7xgsht",
+                "id": "6nw9SAOGln0XyVTO7xgsht",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ba7ce9cee6c58e817372a30dd2f349f7a6ec076e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/aba8a158c2a217741183f648e09e3010249a99ba",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/aacffbe4df6e649b5b25a19c51eed4301a1a9aa6",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "21.10.18 - ESPERANÇA NO MEIO - FORJADOS NO FOGO",
+                "release_date": "2018-10-22",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6nw9SAOGln0XyVTO7xgsht"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/d5af8aa642e28591ea6d88ca0eb60ff4591749dc",
+                "description": "14.10.18 - FILHOS EM CRISTO OU DISCÍPULOS EM CRISE? - YOHAN IGNAS by Mensagens semanais da Mosaico",
+                "duration_ms": 3579141,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4JWLabSSlJ47YZJTVFF5Yu"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4JWLabSSlJ47YZJTVFF5Yu",
+                "id": "4JWLabSSlJ47YZJTVFF5Yu",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "14.10.18 - FILHOS EM CRISTO OU DISCÍPULOS EM CRISE? - YOHAN IGNAS",
+                "release_date": "2018-10-16",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4JWLabSSlJ47YZJTVFF5Yu"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/d2344045c608a67cce08c14b5ab2e4c33eb13f68",
+                "description": "08.10.18 - ESPERANÇA NO MEIO - BENDITA ESPERANÇA by Mensagens semanais da Mosaico",
+                "duration_ms": 3135086,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6DX129J4fTHVfS31nCmpvF"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6DX129J4fTHVfS31nCmpvF",
+                "id": "6DX129J4fTHVfS31nCmpvF",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/56129bae6e1f89fc478e6b0667a069b50ef742a8",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/3017777adef60c3cbc1fde231817ab14a8487224",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/def113a7bb0bb3b8028e2c666573df1c6bd56b10",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "08.10.18 - ESPERANÇA NO MEIO - BENDITA ESPERANÇA",
+                "release_date": "2018-10-08",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6DX129J4fTHVfS31nCmpvF"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/708e251814a8af6c1c1e8f431560f1507c96eb15",
+                "description": "30.09.18 - ESPERANÇA NO MEIO - IDENTIDADE DE CORPO by Mensagens semanais da Mosaico",
+                "duration_ms": 2666423,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4zOf1SCCDLu526FSQ4KBRv"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4zOf1SCCDLu526FSQ4KBRv",
+                "id": "4zOf1SCCDLu526FSQ4KBRv",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/5ad4d4198ab638acb3b0bd7a2515feb7b03edea4",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/f193c0cd2100172f28c831fb5064d0a1964f0384",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/a8c6ca0a8d15a54ad1640ac6a2f2cfc387557720",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "30.09.18 - ESPERANÇA NO MEIO - IDENTIDADE DE CORPO",
+                "release_date": "2018-10-01",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4zOf1SCCDLu526FSQ4KBRv"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/d8adbfae8af917d4e8258d9edf6a2ca8f08f709e",
+                "description": "23.09.18 - ESPERANÇA NO MEIO - VIVENDO EM TERRAS ESTRANHAS by Mensagens semanais da Mosaico",
+                "duration_ms": 3306841,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/21u4ArelVaKFtPKkjbuMqW"
+                },
+                "href": "https://api.spotify.com/v1/episodes/21u4ArelVaKFtPKkjbuMqW",
+                "id": "21u4ArelVaKFtPKkjbuMqW",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/c6d75d2742927d731f90e4ed610f8dfa22385b54",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/79ec665783c2eff72f07267a12fb6c5ce7d75e65",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/f6e49d5832b293cfec753f494f683fad23c2e238",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "23.09.18 - ESPERANÇA NO MEIO - VIVENDO EM TERRAS ESTRANHAS",
+                "release_date": "2018-09-25",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:21u4ArelVaKFtPKkjbuMqW"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/3c5f9145288f54ae777adc516fe879d3f6abcf52",
+                "description": "16.09.18 - JESUS COMO CENTRO by Mensagens semanais da Mosaico",
+                "duration_ms": 2981355,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6jjyBHLPdQtoUTcedH7RA3"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6jjyBHLPdQtoUTcedH7RA3",
+                "id": "6jjyBHLPdQtoUTcedH7RA3",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "16.09.18 - JESUS COMO CENTRO",
+                "release_date": "2018-09-17",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6jjyBHLPdQtoUTcedH7RA3"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/729188d21a02da07853c4a72654dfb763ca5055d",
+                "description": "09.09.18 - O SACERDÓCIO UNIVERSAL DE QUASE TODOS OS CRENTES - RODRIGO BIBO by Mensagens semanais da Mosaico",
+                "duration_ms": 2693146,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6wGPbY8RKLohzHd8IO4D1a"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6wGPbY8RKLohzHd8IO4D1a",
+                "id": "6wGPbY8RKLohzHd8IO4D1a",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "09.09.18 - O SACERDÓCIO UNIVERSAL DE QUASE TODOS OS CRENTES - RODRIGO BIBO",
+                "release_date": "2018-09-10",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6wGPbY8RKLohzHd8IO4D1a"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/b267d91909cd67ee26e691ec0b8444550c443a9b",
+                "description": "26.08.18 - O PODER by Mensagens semanais da Mosaico",
+                "duration_ms": 2589231,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/7Eg3E3CeL7iScj1f6LqdiS"
+                },
+                "href": "https://api.spotify.com/v1/episodes/7Eg3E3CeL7iScj1f6LqdiS",
+                "id": "7Eg3E3CeL7iScj1f6LqdiS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "26.08.18 - O PODER",
+                "release_date": "2018-08-27",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:7Eg3E3CeL7iScj1f6LqdiS"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/4a8205e5cf6872a0fae6b2bcf5a373e6cd8d313b",
+                "description": "Viva uma vida por completo! Reorientando os sentidos para a experiência de uma espiritualidade autentica. Rev. Pedro Muniz (Igreja Anglicana Ancora).",
+                "duration_ms": 2593698,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/1Xr612SbmmyjEha4tN3hJi"
+                },
+                "href": "https://api.spotify.com/v1/episodes/1Xr612SbmmyjEha4tN3hJi",
+                "id": "1Xr612SbmmyjEha4tN3hJi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "19.08.28 - VIVA UMA VIDA POR COMPLETO",
+                "release_date": "2018-08-22",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:1Xr612SbmmyjEha4tN3hJi"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/39ee800f94c0cfac50040c882e473addd9a5b998",
+                "description": "12.08.18 - FÉ SEM DIREÇÃO by Mensagens semanais da Mosaico",
+                "duration_ms": 2963984,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/61DtAwtcmQ1rzpYmhxhGT4"
+                },
+                "href": "https://api.spotify.com/v1/episodes/61DtAwtcmQ1rzpYmhxhGT4",
+                "id": "61DtAwtcmQ1rzpYmhxhGT4",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "12.08.18 - FÉ SEM DIREÇÃO",
+                "release_date": "2018-08-14",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:61DtAwtcmQ1rzpYmhxhGT4"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/c5f05c5c1cb51be77dfb7744890ba832a85cad33",
+                "description": "05.08.18 - CINE 2018 - INVENCÍVEL by Mensagens semanais da Mosaico",
+                "duration_ms": 2812996,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/212k8p3UBQIQZxYmAB225Q"
+                },
+                "href": "https://api.spotify.com/v1/episodes/212k8p3UBQIQZxYmAB225Q",
+                "id": "212k8p3UBQIQZxYmAB225Q",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/32bf3782bdda58e238ba84cf3e0977eafce9b9b0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/15d2ee602ca08b814d75259b0591a317feddc014",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/8039ddca2901fa1511d35d4720e443ace24fd43d",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "05.08.18 - CINE 2018 - INVENCÍVEL",
+                "release_date": "2018-08-06",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:212k8p3UBQIQZxYmAB225Q"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/47352675910ed34e83f1570a8a6fa18f70a2acd4",
+                "description": "29.07.18 - CINE 2018 - 3 ANÚNCIOS PARA UM CRIME by Mensagens semanais da Mosaico",
+                "duration_ms": 3734831,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/5Xwcc32m2AXhXqXUny1J1H"
+                },
+                "href": "https://api.spotify.com/v1/episodes/5Xwcc32m2AXhXqXUny1J1H",
+                "id": "5Xwcc32m2AXhXqXUny1J1H",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/32bf3782bdda58e238ba84cf3e0977eafce9b9b0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/15d2ee602ca08b814d75259b0591a317feddc014",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/8039ddca2901fa1511d35d4720e443ace24fd43d",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "29.07.18 - CINE 2018 - 3 ANÚNCIOS PARA UM CRIME",
+                "release_date": "2018-07-30",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:5Xwcc32m2AXhXqXUny1J1H"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/838149213f0633320169ffaca69697181ec650d8",
+                "description": "22.07.18 - CINE 2018 - MISSÃO IMPOSSÍVEL by Mensagens semanais da Mosaico",
+                "duration_ms": 3738776,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2lhTyzayGhKdP0t75v3QDp"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2lhTyzayGhKdP0t75v3QDp",
+                "id": "2lhTyzayGhKdP0t75v3QDp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/32bf3782bdda58e238ba84cf3e0977eafce9b9b0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/15d2ee602ca08b814d75259b0591a317feddc014",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/8039ddca2901fa1511d35d4720e443ace24fd43d",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "22.07.18 - CINE 2018 - MISSÃO IMPOSSÍVEL",
+                "release_date": "2018-07-24",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2lhTyzayGhKdP0t75v3QDp"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/48bf13cf70ba93d87469e29fcfd6e9db7407a213",
+                "description": "15.07.18 - CINE 2018 - PRENDA-ME SE FOR CAPAZ by Mensagens semanais da Mosaico",
+                "duration_ms": 2665456,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2IlbVAcuR5hzyJhKyIvcSp"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2IlbVAcuR5hzyJhKyIvcSp",
+                "id": "2IlbVAcuR5hzyJhKyIvcSp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/32bf3782bdda58e238ba84cf3e0977eafce9b9b0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/15d2ee602ca08b814d75259b0591a317feddc014",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/8039ddca2901fa1511d35d4720e443ace24fd43d",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "15.07.18 - CINE 2018 - PRENDA-ME SE FOR CAPAZ",
+                "release_date": "2018-07-17",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2IlbVAcuR5hzyJhKyIvcSp"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/8ebe17b095428e54a61f3931ee8dd97a3ca2f9ee",
+                "description": "08.07.18 - CINE 2018 - COM AMOR VAN GOGH by Mensagens semanais da Mosaico",
+                "duration_ms": 3833313,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4l30kOg9gdmIWicelIuC3i"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4l30kOg9gdmIWicelIuC3i",
+                "id": "4l30kOg9gdmIWicelIuC3i",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/32bf3782bdda58e238ba84cf3e0977eafce9b9b0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/15d2ee602ca08b814d75259b0591a317feddc014",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/8039ddca2901fa1511d35d4720e443ace24fd43d",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "08.07.18 - CINE 2018 - COM AMOR VAN GOGH",
+                "release_date": "2018-07-09",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4l30kOg9gdmIWicelIuC3i"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/1d7823ee2eed79d99ef9d920676db3be82b1b5c7",
+                "description": "01.07.18 - CINE 2018 - VIVA by Mensagens semanais da Mosaico",
+                "duration_ms": 3217972,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/7vSVhh0RUByY5la9nnpBpl"
+                },
+                "href": "https://api.spotify.com/v1/episodes/7vSVhh0RUByY5la9nnpBpl",
+                "id": "7vSVhh0RUByY5la9nnpBpl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/32bf3782bdda58e238ba84cf3e0977eafce9b9b0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/15d2ee602ca08b814d75259b0591a317feddc014",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/8039ddca2901fa1511d35d4720e443ace24fd43d",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "01.07.18 - CINE 2018 - VIVA",
+                "release_date": "2018-07-02",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:7vSVhh0RUByY5la9nnpBpl"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/24d1ab8adbfa3a0228796d9f669d29bff5878ff1",
+                "description": "24.06.18 - INSPIRE EXPIRE - O VALOR DA VOZ by Mensagens semanais da Mosaico",
+                "duration_ms": 2835513,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/5ze2ivRSqNkqd3C1cb1as2"
+                },
+                "href": "https://api.spotify.com/v1/episodes/5ze2ivRSqNkqd3C1cb1as2",
+                "id": "5ze2ivRSqNkqd3C1cb1as2",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/feef164d2d4b85539d376b9d3c19114cac04bb22",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/8010fea1d9a8dcbebb7da58285330c45c8c50713",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/1e01d24ce53eb647159d8a0e467d25101f4349c3",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "24.06.18 - INSPIRE EXPIRE - O VALOR DA VOZ",
+                "release_date": "2018-06-28",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:5ze2ivRSqNkqd3C1cb1as2"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/c10776b1735fdb00a2bd9039c43215b574ebf907",
+                "description": "17.06.18 - INSPIRE EXPIRE - PERMANECER - ORLANDO NERI by Mensagens semanais da Mosaico",
+                "duration_ms": 4001280,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2jgmF2hCiCsjV43rZhDCWt"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2jgmF2hCiCsjV43rZhDCWt",
+                "id": "2jgmF2hCiCsjV43rZhDCWt",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/feef164d2d4b85539d376b9d3c19114cac04bb22",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/8010fea1d9a8dcbebb7da58285330c45c8c50713",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/1e01d24ce53eb647159d8a0e467d25101f4349c3",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "17.06.18 - INSPIRE EXPIRE - PERMANECER - ORLANDO NERI",
+                "release_date": "2018-06-19",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2jgmF2hCiCsjV43rZhDCWt"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/63e83eea70dba86411d886fea9bfe8b5848dfe51",
+                "description": "10.06.18 - INSPIRE EXPIRE - COMPARTILHAR 2 by Mensagens semanais da Mosaico",
+                "duration_ms": 2442912,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/5CAyTydfk2uDOw20ldp72T"
+                },
+                "href": "https://api.spotify.com/v1/episodes/5CAyTydfk2uDOw20ldp72T",
+                "id": "5CAyTydfk2uDOw20ldp72T",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/feef164d2d4b85539d376b9d3c19114cac04bb22",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/8010fea1d9a8dcbebb7da58285330c45c8c50713",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/1e01d24ce53eb647159d8a0e467d25101f4349c3",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "10.06.18 - INSPIRE EXPIRE - COMPARTILHAR 2",
+                "release_date": "2018-06-11",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:5CAyTydfk2uDOw20ldp72T"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/887c327ad2ba5f5bf24ce1d09d7a9ef5e60d7354",
+                "description": "03.06.18 - INSPIRE EXPIRE - OBEDECER by Mensagens semanais da Mosaico",
+                "duration_ms": 2575608,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4lZ9JKWzrMpIDG1COKUlsL"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4lZ9JKWzrMpIDG1COKUlsL",
+                "id": "4lZ9JKWzrMpIDG1COKUlsL",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/feef164d2d4b85539d376b9d3c19114cac04bb22",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/8010fea1d9a8dcbebb7da58285330c45c8c50713",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/1e01d24ce53eb647159d8a0e467d25101f4349c3",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "03.06.18 - INSPIRE EXPIRE - OBEDECER",
+                "release_date": "2018-06-04",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4lZ9JKWzrMpIDG1COKUlsL"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/06f2b04306c42e217e8ffe146fa1431479c5b23f",
+                "description": "27.05.18 - INSPIRE EXPIRE - COMPARTILHAR by Mensagens semanais da Mosaico",
+                "duration_ms": 3223440,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4sWkYKFla0b6ro2u7Q7EM3"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4sWkYKFla0b6ro2u7Q7EM3",
+                "id": "4sWkYKFla0b6ro2u7Q7EM3",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/feef164d2d4b85539d376b9d3c19114cac04bb22",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/8010fea1d9a8dcbebb7da58285330c45c8c50713",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/1e01d24ce53eb647159d8a0e467d25101f4349c3",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "27.05.18 - INSPIRE EXPIRE - COMPARTILHAR",
+                "release_date": "2018-05-28",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4sWkYKFla0b6ro2u7Q7EM3"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/4b18efce45efcfdb0f0f32aa2dce77506baf1edc",
+                "description": "20.05.18 - INSPIRE EXPIRE - OUVIR by Mensagens semanais da Mosaico",
+                "duration_ms": 3287160,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6xbF85LTHLK9QcwSm0nUV7"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6xbF85LTHLK9QcwSm0nUV7",
+                "id": "6xbF85LTHLK9QcwSm0nUV7",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/feef164d2d4b85539d376b9d3c19114cac04bb22",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/8010fea1d9a8dcbebb7da58285330c45c8c50713",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/1e01d24ce53eb647159d8a0e467d25101f4349c3",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "20.05.18 - INSPIRE EXPIRE - OUVIR",
+                "release_date": "2018-05-21",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6xbF85LTHLK9QcwSm0nUV7"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/f95d125b90a4b474907a89f1d2b4a7c9f0c6617b",
+                "description": "Nesse domingo iniciamos a série de mensagens Inspire Expire. Buscando a sabedoria e profundidade, iremos explorar cada vez mais o movimento de respiração que nos faz viver e o agir do Espírito Santo nas nossas vidas. Lamentamos a qualidade do áudio dessa semana, esperamos resolver os problemas técnicos no próximo Podcast.  Deus abençoe a todos.",
+                "duration_ms": 3868824,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/7r4m8jsXfDkhxFEi3LUrhl"
+                },
+                "href": "https://api.spotify.com/v1/episodes/7r4m8jsXfDkhxFEi3LUrhl",
+                "id": "7r4m8jsXfDkhxFEi3LUrhl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/feef164d2d4b85539d376b9d3c19114cac04bb22",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/8010fea1d9a8dcbebb7da58285330c45c8c50713",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/1e01d24ce53eb647159d8a0e467d25101f4349c3",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "13.05.18 - O2 - INSPIRE EXPIRE",
+                "release_date": "2018-05-14",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:7r4m8jsXfDkhxFEi3LUrhl"
+            },
+            {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/d49fdbd9b2a6c530fe2267332c5e92f75ab6603d",
+                "description": "06.05.18 - CONCRETO by Mensagens semanais da Mosaico",
+                "duration_ms": 3481080,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/1s6ioSUe9U5hXWYM9qqS1g"
+                },
+                "href": "https://api.spotify.com/v1/episodes/1s6ioSUe9U5hXWYM9qqS1g",
+                "id": "1s6ioSUe9U5hXWYM9qqS1g",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "pt",
+                "name": "06.05.18 - CONCRETO",
+                "release_date": "2018-05-07",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:1s6ioSUe9U5hXWYM9qqS1g"
+            }
+        ],
+        "limit": 50,
+        "next": "https://api.spotify.com/v1/shows/2RpKnppT6GQLUsGyeOkcY4/episodes?offset=50&limit=50",
+        "offset": 0,
+        "previous": null,
+        "total": 162
+    },
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/show/2RpKnppT6GQLUsGyeOkcY4"
+    },
+    "href": "https://api.spotify.com/v1/shows/2RpKnppT6GQLUsGyeOkcY4",
+    "id": "2RpKnppT6GQLUsGyeOkcY4",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/6157585f9f8464f0baae64fedc3f48b5e3e44feb",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/847ce2837ef7e88a16a366ff52a5fb4ed8330736",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/cbab9b207cf89aa827ea0ea26ab73fd3cde4b53f",
+            "width": 64
+        }
+    ],
+    "languages": [
+        "pt"
+    ],
+    "media_type": "audio",
+    "name": "Mosaico Igreja",
+    "publisher": "Mensagens semanais da Mosaico",
+    "type": "show",
+    "uri": "spotify:show:2RpKnppT6GQLUsGyeOkcY4"
+}
